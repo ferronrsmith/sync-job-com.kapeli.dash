@@ -109,4 +109,5 @@ venv.bak/
 # Job specific paths.
 /workspace/feeds
 /workspace/resources
+/workspace/gist
 /workspace/output.json

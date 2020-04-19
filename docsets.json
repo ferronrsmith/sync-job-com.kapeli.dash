@@ -110,14 +110,14 @@
         "title": "C",
         "iconName": "c",
         "extra": {
-            "indexFilePath": "output/en/c.html"
+            "indexFilePath": "output/en.cppreference.com/w/c.html"
         }
     },
     "C++": {
         "title": "C++",
         "iconName": "cpp",
         "extra": {
-            "indexFilePath": "output/en/cpp.html"
+            "indexFilePath": "output/en.cppreference.com/w/cpp.html"
         }
     },
     "CMake": {
@@ -292,7 +292,10 @@
     },
     "Erlang": {
         "title": "Erlang",
-        "iconName": "erlang"
+        "iconName": "erlang",
+        "extra": {
+            "indexFilePath": "doc/index.html"
+        }
     },
     "Express": {
         "title": "Express",
@@ -706,7 +709,11 @@
     },
     "Perl": {
         "title": "Perl",
-        "iconName": "perl"
+        "iconName": "perl",
+        "extra": {
+            "indexFilePath": "perldoc-html/index-functions-by-cat.html",
+            "isJavaScriptEnabled": true
+        }
     },
     "Phalcon": {
         "title": "Phalcon",
@@ -899,7 +906,10 @@
     },
     "Rust": {
         "title": "Rust",
-        "iconName": "rust"
+        "iconName": "rust",
+        "extra": {
+            "isJavaScriptEnabled": true
+        }
     },
     "SQLAlchemy": {
         "title": "SQLAlchemy",

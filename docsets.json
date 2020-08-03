@@ -99,6 +99,13 @@
             "isJavaScriptEnabled": true
         }
     },
+    "Bootstrap_5": {
+        "title": "Bootstrap 5",
+        "iconName": "bootstrap",
+        "extra": {
+            "isJavaScriptEnabled": true
+        }
+    },
     "Bourbon": {
         "title": "Bourbon",
         "iconName": "bourbon",

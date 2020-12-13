@@ -860,6 +860,16 @@
             ]
         }
     },
+    "Qt_6": {
+        "title": "Qt 6",
+        "iconName": "qt",
+        "extra": {
+            "keywords": [
+                "qt6",
+                "qt"
+            ]
+        }
+    },
     "R": {
         "title": "R",
         "iconName": "r"

@@ -907,6 +907,13 @@
             "isJavaScriptEnabled": true
         }
     },
+    "Ruby_3": {
+        "title": "Ruby 3",
+        "iconName": "ruby",
+        "extra": {
+            "isJavaScriptEnabled": true
+        }
+    },
     "Ruby_on_Rails_3": {
         "title": "Ruby on Rails 3",
         "iconName": "rails",

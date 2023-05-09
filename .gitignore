@@ -111,3 +111,6 @@ venv.bak/
 /workspace/resources
 /workspace/gist
 /workspace/output.json
+
+# act
+.actrc

@@ -274,6 +274,13 @@
             "isJavaScriptEnabled": true
         }
     },
+    "Drupal_9": {
+        "title": "Drupal 9",
+        "iconName": "drupal",
+        "extra": {
+            "isJavaScriptEnabled": true
+        }
+    },
     "ElasticSearch": {
         "title": "ElasticSearch",
         "iconName": "elasticsearch"
@@ -568,6 +575,26 @@
             "isJavaScriptEnabled": true
         }
     },
+    "Java_SE18": {
+        "title": "Java SE18",
+        "iconName": "java",
+        "extra": {
+            "keywords": [
+                "java18"
+            ],
+            "isJavaScriptEnabled": true
+        }
+    },
+    "Java_SE19": {
+        "title": "Java SE19",
+        "iconName": "java",
+        "extra": {
+            "keywords": [
+                "java19"
+            ],
+            "isJavaScriptEnabled": true
+        }
+    },
     "Jekyll": {
         "title": "Jekyll",
         "iconName": "jekyll"
@@ -579,27 +606,6 @@
     "Joomla": {
         "title": "Joomla",
         "iconName": "joomla",
-        "extra": {
-            "isJavaScriptEnabled": true
-        }
-    },
-    "jQuery": {
-        "title": "jQuery",
-        "iconName": "jQuery",
-        "extra": {
-            "isJavaScriptEnabled": true
-        }
-    },
-    "jQuery_Mobile": {
-        "title": "jQuery Mobile",
-        "iconName": "jquerym",
-        "extra": {
-            "isJavaScriptEnabled": true
-        }
-    },
-    "jQuery_UI": {
-        "title": "jQuery UI",
-        "iconName": "jqueryui",
         "extra": {
             "isJavaScriptEnabled": true
         }
@@ -663,7 +669,7 @@
         }
     },
     "Lua_5.4": {
-        "title": "Lua 5.4",
+    "title": "Lua 5.4",
         "iconName": "lua",
         "extra": {
             "indexFilePath": "www.lua.org/manual/5.4/index.html"
@@ -924,6 +930,10 @@
         "title": "Ruby 2",
         "iconName": "ruby",
         "extra": {
+            "keywords": [
+                "ruby2",
+                "ruby"
+            ],
             "isJavaScriptEnabled": true
         }
     },
@@ -931,6 +941,10 @@
         "title": "Ruby 3",
         "iconName": "ruby",
         "extra": {
+            "keywords": [
+                "ruby3",
+                "ruby"
+            ],
             "isJavaScriptEnabled": true
         }
     },
@@ -1217,5 +1231,26 @@
     "ZeptoJS": {
         "title": "ZeptoJS",
         "iconName": "zepto"
+    },
+    "jQuery": {
+        "title": "jQuery",
+        "iconName": "jQuery",
+        "extra": {
+            "isJavaScriptEnabled": true
+        }
+    },
+    "jQuery_Mobile": {
+        "title": "jQuery Mobile",
+        "iconName": "jquerym",
+        "extra": {
+            "isJavaScriptEnabled": true
+        }
+    },
+    "jQuery_UI": {
+        "title": "jQuery UI",
+        "iconName": "jqueryui",
+        "extra": {
+            "isJavaScriptEnabled": true
+        }
     }
 }

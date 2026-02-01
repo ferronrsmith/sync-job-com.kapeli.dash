@@ -14,15 +14,7 @@
         "title": "Akka",
         "iconName": "akka",
         "extra": {
-            "indexFilePath": "scala/package.html",
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Android": {
-        "title": "Android",
-        "iconName": "android",
-        "extra": {
-            "indexFilePath": "docs/reference/packages.html",
+            "indexFilePath": "scala/akka/package.html",
             "isJavaScriptEnabled": true
         }
     },
@@ -260,29 +252,8 @@
             "isJavaScriptEnabled": true
         }
     },
-    "Drupal_7": {
-        "title": "Drupal 7",
-        "iconName": "drupal",
-        "extra": {
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Drupal_8": {
-        "title": "Drupal 8",
-        "iconName": "drupal",
-        "extra": {
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Drupal_9": {
-        "title": "Drupal 9",
-        "iconName": "drupal",
-        "extra": {
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Drupal_10": {
-        "title": "Drupal 10",
+    "Drupal": {
+        "title": "Drupal",
         "iconName": "drupal",
         "extra": {
             "isJavaScriptEnabled": true
@@ -448,172 +419,10 @@
             "isJavaScriptEnabled": true
         }
     },
-    "Java_EE6": {
-        "title": "Java EE6",
-        "iconName": "jee6",
-        "extra": {
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_EE7": {
-        "title": "Java EE7",
-        "iconName": "jee7",
-        "extra": {
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_EE8": {
-        "title": "Java EE8",
-        "iconName": "jee8",
-        "extra": {
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE6": {
-        "title": "Java SE6",
+    "Java": {
+        "title": "Java",
         "iconName": "java",
         "extra": {
-            "keywords": [
-                "java6"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE7": {
-        "title": "Java SE7",
-        "iconName": "java",
-        "extra": {
-            "keywords": [
-                "java7"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE8": {
-        "title": "Java SE8",
-        "iconName": "java",
-        "extra": {
-            "keywords": [
-                "java8"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE9": {
-        "title": "Java SE9",
-        "iconName": "java",
-        "extra": {
-            "keywords": [
-                "java9"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE10": {
-        "title": "Java SE10",
-        "iconName": "java",
-        "extra": {
-            "keywords": [
-                "java10"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE11": {
-        "title": "Java SE11",
-        "iconName": "java",
-        "extra": {
-            "keywords": [
-                "java11"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE12": {
-        "title": "Java SE12",
-        "iconName": "java",
-        "extra": {
-            "keywords": [
-                "java12"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE13": {
-        "title": "Java SE13",
-        "iconName": "java",
-        "extra": {
-            "keywords": [
-                "java13"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE14": {
-        "title": "Java SE14",
-        "iconName": "java",
-        "extra": {
-            "keywords": [
-                "java14"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE15": {
-        "title": "Java SE15",
-        "iconName": "java",
-        "extra": {
-            "keywords": [
-                "java15"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE16": {
-        "title": "Java SE16",
-        "iconName": "java",
-        "extra": {
-            "keywords": [
-                "java16"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE17": {
-        "title": "Java SE17",
-        "iconName": "java",
-        "extra": {
-            "keywords": [
-                "java17"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE18": {
-        "title": "Java SE18",
-        "iconName": "java",
-        "extra": {
-            "keywords": [
-                "java18"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE19": {
-        "title": "Java SE19",
-        "iconName": "java",
-        "extra": {
-            "keywords": [
-                "java19"
-            ],
-            "isJavaScriptEnabled": true
-        }
-    },
-    "Java_SE20": {
-        "title": "Java SE20",
-        "iconName": "java",
-        "extra": {
-            "keywords": ["java20"],
             "isJavaScriptEnabled": true
         }
     },
@@ -732,10 +541,6 @@
         "title": "Mongoose",
         "iconName": "mongoose"
     },
-    "Mono": {
-        "title": "Mono",
-        "iconName": "mono"
-    },
     "MooTools": {
         "title": "MooTools",
         "iconName": "moo"
@@ -743,10 +548,6 @@
     "MySQL": {
         "title": "MySQL",
         "iconName": "mysql"
-    },
-    "NET_Framework": {
-        "title": "NET Framework",
-        "iconName": "net"
     },
     "Neat": {
         "title": "Neat",
@@ -1022,6 +823,14 @@
                 "ror7",
                 "ror"
             ],
+            "isJavaScriptEnabled": true
+        }
+    },
+    "Ruby_on_Rails_8": {
+        "title": "Ruby on Rails 8",
+        "iconName": "rails",
+        "extra": {
+            "keywords": ["ror8", "ror"],
             "isJavaScriptEnabled": true
         }
     },
